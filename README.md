@@ -1,4 +1,4 @@
-# Healthic_apps
+# Healthic_App
 
 Graduation project (Mobile application).
 
