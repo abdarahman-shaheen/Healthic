@@ -1,6 +1,6 @@
 # Healthic_apps
 
-graduation project (Mobile application).
+Graduation project (Mobile application).
 
 # Introduction 
 
