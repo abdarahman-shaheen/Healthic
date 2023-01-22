@@ -1,6 +1,6 @@
 # Healthic_App
 
-Graduation project (Mobile application).
+Flutter & Dart (Mobile application).
 
 # Introduction 
 
